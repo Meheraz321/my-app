@@ -1,0 +1,8 @@
+{
+  "name": "Battle Royale Dev Studio",
+  "description": "A comprehensive development companion for building Free Fire style Battle Royale games in Unity. Includes step-by-step Bengali guides and an AI-powered game dev assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
